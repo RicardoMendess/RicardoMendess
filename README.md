@@ -37,3 +37,4 @@
     <img align="center" alt="" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </div><br/>
 
+I am student of Developer Systems and Analist and programming in Java, Javascript, Html5 and Css3. I like to developer solutions for peoples and companies.
