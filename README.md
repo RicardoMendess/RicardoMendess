@@ -1,4 +1,5 @@
 ### Olá! Eu sou o Ricardo Mendes 👋
+### Hello! I'm Ricardo Mendes 👋
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ricardomendesprofissional@gmail.com)
