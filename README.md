@@ -1,4 +1,3 @@
-### Olá! Eu sou o Ricardo Mendes 👋
 ### Hello! I'm Ricardo Mendes 👋
 
 
