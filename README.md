@@ -64,9 +64,3 @@
     <img align="center" alt="PS" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
     <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
-
-<div>
-    
-</div>
-
-I am student of Developer Systems and Analist and programming in Java, Javascript, Html5 and Css3. I like to developer solutions for peoples and companies.
