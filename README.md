@@ -1,5 +1,4 @@
 ### Hello! I'm Alexandre Mendes 👋
-### Olá! Eu sou o Alexandre Mendes 👋
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ricardomendesprofissional@gmail.com)
@@ -9,7 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoMendess&show_icons=true&theme=dracula)
 <br/>
 
-## Tecnologias que possuo conhecimento - (Tecnologys what I have knowledge): 
+Tecnologys: 
 
 <div style="display: inline_block">
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -27,7 +26,7 @@
     <img align="center" alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
 
-## Tecnologias que uso no meu dia a dia - (Tecnologys in my day):
+Tecnologys in my day:
 
 <div style="display: inline_block">
     <img align="center" alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
