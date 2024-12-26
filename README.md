@@ -2,7 +2,7 @@
 
 - 🔭 Hi, I've been a software developer since 2021 and have been building solutions with Javascript and Typescript.
 
-I currently work as a senior front-end software engineer at Accenture, as an Angular specialist, working in a banking sector that impacts millions of users.
+I currently work as a senior front-end software engineer at Accenture, working in a banking sector that impacts millions of users.
 
 In the projects I worked on, I always aimed to ensure accessibility, efficiency and security, improving performance, optimizing applications and allowing the user to have the best final experience.
 
