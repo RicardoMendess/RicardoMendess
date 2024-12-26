@@ -15,5 +15,3 @@ If you have any questions or want to exchange an idea, feel free, I will be happ
 👯 I'm collaborate with Software para Servir community, how front-end mentor, trying pass knowledge for others developers in initial carrier.
 
 📫 How to reach me: https://www.linkedin.com/in/alexandre-mendes-93b314206/
-
-😄 Pronouns: He/Him
