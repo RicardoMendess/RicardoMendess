@@ -10,7 +10,7 @@ In my free time, I have the pleasure of helping out in the community, helping ot
 
 If you have any questions or want to exchange an idea, feel free, I will be happy to help!
 
-🌱 Actually, i'm learning about Angular architectury, and React ecossystem, and a Java ecossystem.
+🌱 Actually, i'm learning about Angular architectury, and React ecossystem, and a Javascript ecossystem.
 
 👯 I'm collaborate with Software para Servir community, how front-end mentor, trying pass knowledge for others developers in initial carrier.
 
